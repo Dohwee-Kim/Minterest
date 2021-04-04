@@ -12,6 +12,7 @@ conda create -n <env_name> python=3.7
 Requirements:
 ```
 Django          3.1.7
+django-environ-0.4.5
 pip             21.0.1
 ```
 
