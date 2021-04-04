@@ -1,7 +1,6 @@
 # Minterest project : Pinterest like but minimial limited features personal blog - webserver in Python and Django framework
-
-=======
 Pinterest-like personal web server.
+=======
 
 This is a webserver examples for personal practice and demonstration written in Python 3.7 and Django framework.
 If you use a Anaconda, setting up an clean environment with a specific version of Python 3.7 is recommended. It might work with other 3.7.x or older versions but have not tested. 
